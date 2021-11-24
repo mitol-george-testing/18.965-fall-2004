@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "928c0eef-92ba-717e-a5fc-f7925f416121"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Geometry of Manifolds",
+  "course_description": "Geometry of Manifolds analyzes topics such as the differentiable manifolds and vector fields and forms. It also makes an introduction to Lie groups, the de Rham theorem, and Riemannian manifolds.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.965",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
